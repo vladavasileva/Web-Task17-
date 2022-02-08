@@ -17,7 +17,7 @@
 
 Було запитано, що виведе код
 
-![]()
+![](https://github.com/vladavasileva/Web-Task17-/blob/main/%D0%972.PNG)
 
 Цей код виводить "1", тому що тег <script> є останнім 
   
