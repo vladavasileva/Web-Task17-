@@ -21,4 +21,4 @@
 
 Цей код виводить "1", тому що тег <script> є останнім 
   
-![]() 
+![](https://github.com/vladavasileva/Web-Task17-/blob/main/%D0%97.1.PNG) 
