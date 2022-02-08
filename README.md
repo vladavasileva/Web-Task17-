@@ -13,7 +13,7 @@
 
 ![](https://github.com/vladavasileva/Web-Task17-/blob/main/%D0%971.PNG)
 
-##Завдання 2 
+## Завдання 2 
 
 Було запитано, що виведе код
 
